@@ -143,20 +143,22 @@ const TrucksOptions = () => {
     ];
 
     return (
-        <div className="flex flex-col gap-4">
-            <div className="my-4 grid grid-cols-3 gap-4">
+        <div className="flex flex-col gap-4 animate-appearance-in">
+            {/* Cuadrícula compacta con diseño unificado */}
+            <div className="my-4 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
                 {items.map((item) => {
                     if (item.disable) return;
 
                     return (
-                        <OptionCard
-                            key={item.id}
-                            id={item.id}
-                            title={item.title}
-                            description={item.description}
-                            image={item.image}
-                            footerJsx={item.modal}
-                        />
+                        <div key={item.id} className="transition-transform duration-300 hover:-translate-y-2 drop-shadow-sm hover:drop-shadow-xl">
+                            <OptionCard
+                                id={item.id}
+                                title={item.title}
+                                description={item.description}
+                                image={item.image}
+                                footerJsx={item.modal}
+                            />
+                        </div>
                     );
                 })}
             </div>

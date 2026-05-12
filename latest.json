@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "Actualización de prueba para verificar el sistema automático",
+  "version": "1.0.6",
+  "notes": "Actualización de logo",
   "pub_date": "2026-05-05T18:45:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW91dkhObkdMVm5yRDByNy80NUxYdjZ3OUpEVzBqeHQreVV1TlY3WXhxM3ZKbGhHb0ZYUjViUXRXUzB0Smh5SnplWXIrQ1hudExZOVczcHUrUitpT2NlSFFUYUtldXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTk0OTkzCWZpbGU6VGl0YW5lcyBUb29sc18xLjAuNV94NjRfZW4tVVMubXNpCk11cUJyRE4zZXNrVG5RKy9FYzVsY1Rxa2pNR0VUM2ZCU2NQa1oySUdJT0RBaWp5TzJUWFhuQjhlcW9aMWFodzdGSzF0S2dPbVdzeTA3VnoxeDVuTUJnPT0K",
-      "url": "https://github.com/djpeteroficial/Titanes-Tools/releases/download/untagged-2e448255e3130a9611b3/Truck_Tools_1.0.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW91dkhObkdMVms3Vk9HWGZ0VFN1M1pweWFJVDJFLzl3bG5pYUVITEhBTGNkUmVaTURTbE1sZ2hVZTlFTGF6N3IvZzFRZTF1bDRNZndGbjFyYjdNSFlsTmh4TE4wb3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTk3MDEzCWZpbGU6VGl0YW5lcyBUb29sc18xLjAuNl94NjRfZW4tVVMubXNpClBmTWUybUp2eGxRTGJ1bkZyKzNBMUtzUWxmbURWelFZeXFjaDlLWUFlRVV1TkJDblJyNTd4V1ZNYUh6OXkvOEtWZ2xLREpoS25qMG5Mek12aFVSRkRnPT0K",
+      "url": "https://github.com/djpeteroficial/Titanes-Tools/releases/download/1.0.6/Truck_Tools_1.0.6_x64_en-US.msi"
     }
   }
 }

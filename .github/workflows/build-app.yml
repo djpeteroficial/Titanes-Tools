@@ -11,7 +11,7 @@ permissions:
     contents: write
 
 env:
-    APP_NAME: Truck Tools
+    APP_NAME: Titanes Tools
     APP_BUILD_TARGET: x64_en-US
 
 jobs:

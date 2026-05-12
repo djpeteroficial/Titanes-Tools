@@ -246,7 +246,7 @@ const UpdaterModal = () => {
 									variant="solid"
 									onPress={() =>
 										open(
-											"https://github.com/CoffeSiberian/truck-tools/releases/latest"
+											"https://github.com/djpeteroficial/Titanes-Tools/releases/latest"
 										)
 									}
 								>

@@ -1,87 +1,86 @@
 {
-	"build": {
-		"beforeDevCommand": "npm run dev",
-		"beforeBuildCommand": "npm run build",
-		"devUrl": "http://localhost:1420",
-		"frontendDist": "../dist"
-	},
-	"bundle": {
-		"active": true,
-		"targets": "msi",
-		"resources": [
-			"resources/SII_Decrypt.dll"
-		],
-		"publisher": "SiberianCoffe",
-		"copyright": "SiberianCoffe",
-		"icon": [
-			"icons/32x32.png",
-			"icons/128x128.png",
-			"icons/128x128@2x.png",
-			"icons/icon.icns",
-			"icons/icon.ico"
-		],
-		"createUpdaterArtifacts": true
-	},
-	"productName": "Titanes Tools",
-	"mainBinaryName": "Titanes Tools",
-	"version": "1.0.0",
-	"identifier": "com.titanestools.dev",
-	"plugins": {
-		"updater": {
-			"pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEJERkMxNzRDRjFGM0ZDQTYKUldTbS9QUHhUQmY4dlV4eFoxS0VnUDVGUHJCcGI1SklzK2cwRm9VUS82NHVHNlAwMTBZaVd3bXcK",
-			"windows": {
-				"installMode": "passive"
-			},
-			"endpoints": [
-				"https://updater.siberiancoffe.dev/",
-				"https://raw.githubusercontent.com/CoffeSiberian/truck-tools/main/src-tauri/updater.json"
-			]
-		}
-	},
-	"app": {
-		"withGlobalTauri": true,
-		"windows": [
-			{
-				"label": "main",
-				"title": "Titanes Tools",
-				"width": 1280,
-				"height": 720,
-				"minWidth": 1280,
-				"minHeight": 720,
-				"resizable": true,
-				"center": true
-			}
-		],
-		"security": {
-			"dangerousDisableAssetCspModification": [
-				"style-src"
-			],
-			"assetProtocol": {
-				"scope": [
-					"**"
-				],
-				"enable": true
-			},
-			"csp": {
-				"default-src": [
-					"'self'"
-				],
-				"connect-src": [
-					"ipc:",
-					"http://ipc.localhost"
-				],
-				"img-src": [
-					"'self'",
-					"asset:",
-					"http://asset.localhost",
-					"https://avatars.githubusercontent.com",
-					"data:"
-				],
-				"style-src": [
-					"'self'",
-					"'unsafe-inline'"
-				]
-			}
-		}
-	}
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "beforeBuildCommand": "npm run build",
+    "devUrl": "http://localhost:1420",
+    "frontendDist": "../dist"
+  },
+  "bundle": {
+    "active": true,
+    "targets": "msi",
+    "resources": [
+      "resources/SII_Decrypt.dll"
+    ],
+    "publisher": "djpeteroficial",
+    "copyright": "djpeteroficial",
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "createUpdaterArtifacts": true
+  },
+  "productName": "Titanes Tools",
+  "mainBinaryName": "Titanes Tools",
+  "version": "1.0.2",
+  "identifier": "com.titanestools.dev",
+  "plugins": {
+    "updater": {
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDU2OEI3MTM2QzdFQkEyRTIKUldUaW91dkhObkdMVnVJL0pSUjZ4RXVnUG0yeEVZSE5ZaFErZlFieEM2eVQ5Y1FHeTR0VGtaeW4K",
+      "windows": {
+        "installMode": "passive"
+      },
+      "endpoints": [
+        "https://github.com/djpeteroficial/Titanes-Tools/releases/latest/download/latest.json"
+      ]
+    }
+  },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "label": "main",
+        "title": "Titanes Tools",
+        "width": 1280,
+        "height": 720,
+        "minWidth": 1280,
+        "minHeight": 720,
+        "resizable": true,
+        "center": true
+      }
+    ],
+    "security": {
+      "dangerousDisableAssetCspModification": [
+        "style-src"
+      ],
+      "assetProtocol": {
+        "scope": [
+          "**"
+        ],
+        "enable": true
+      },
+      "csp": {
+        "default-src": [
+          "'self'"
+        ],
+        "connect-src": [
+          "ipc:",
+          "http://ipc.localhost"
+        ],
+        "img-src": [
+          "'self'",
+          "asset:",
+          "http://asset.localhost",
+          "https://avatars.githubusercontent.com",
+          "data:"
+        ],
+        "style-src": [
+          "'self'",
+          "'unsafe-inline'"
+        ]
+      }
+    }
+  }
 }

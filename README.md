@@ -5,7 +5,7 @@
 
 ## Download
 
-To download and install the application you will first need to download the latest version at the following link <https://github.com/CoffeSiberian/truck-tools/releases/latest>
+To download and install the application you will first need to download the latest version at the following link <https://github.com/djpeteroficial/Titanes-Tools/releases/latest>
 
 > [!CAUTION]
 > Do not download this application through third party sites. Use only this repository to download the application so that you avoid at all costs any malicious file.

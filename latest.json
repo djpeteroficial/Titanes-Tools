@@ -1,0 +1,11 @@
+{
+  "version": "1.0.2",
+  "notes": "Actualización de prueba para verificar el sistema automático v1.0.2.",
+  "pub_date": "2026-05-05T18:45:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRUpObEs3cXl2eVJiWU9iTzJBZWEyMElQU21DcWtnL2FvbnpzRE9sckVDaHlrNmRFYmFqa3RjeW5SYzNoMGM3c29yeldzb1kyU3AvTVdJdWcvQUVjQ2toMDJNdXZFTEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDI0MTg0CWZpbGU6VGl0YW5lcyBUb29sc18xLjAuMl94NjRfZW4tVVMubXNpCmdLN2N6L2RWRHJPRkJpaHU4bmlWTU5jVnVvTXlQdE95R0RybHNEaGFKWkhHSTBIWU5pL0lENFNqQzgySkJ6YmViOGJieFArV09wSHJUbTlndFg2V0JRPT0K",
+      "url": "https://github.com/djpeteroficial/Titanes-Tools/releases/download/v1.0.2/titanes_tools_1.0.2_x64_en-US.msi"
+    }
+  }
+}

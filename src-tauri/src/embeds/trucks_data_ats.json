@@ -2014,6 +2014,87 @@
 					"code": "/def/vehicle/truck/volvo.vnl2018/transmission/18_speed_retarder.sii"
 				}
 			]
+		},
+		{
+			"brand": "volvo",
+			"model": "vnl2025",
+			"engines": [
+				{
+					"name": "Volvo D13TC 405",
+					"cv": "405",
+					"nm": "2370",
+					"code": "/def/vehicle/truck/volvo.vnl2025/engine/d13_405tc.sii"
+				},
+				{
+					"name": "Volvo D13TC 425",
+					"cv": "425",
+					"nm": "2370",
+					"code": "/def/vehicle/truck/volvo.vnl2025/engine/d13_425tc.sii"
+				},
+				{
+					"name": "Volvo D13TC 455",
+					"cv": "455",
+					"nm": "2500",
+					"code": "/def/vehicle/truck/volvo.vnl2025/engine/d13_455tc.sii"
+				},
+				{
+					"name": "Volvo D13TC 500",
+					"cv": "500",
+					"nm": "2550",
+					"code": "/def/vehicle/truck/volvo.vnl2025/engine/d13_500tc.sii"
+				}
+			],
+			"transmissions": [
+				{
+					"name": "Volvo I-Shift AT2612G",
+					"speeds": "12",
+					"retarder": false,
+					"ratio": "14.94 - 1.0",
+					"code": "/def/vehicle/truck/volvo.vnl2025/transmission/ishift_at2612g.sii"
+				},
+				{
+					"name": "Volvo I-Shift ATO2612G",
+					"speeds": "12",
+					"retarder": false,
+					"ratio": "11.73 - 0.78",
+					"code": "/def/vehicle/truck/volvo.vnl2025/transmission/ishift_ato2612g.sii"
+				},
+				{
+					"name": "Volvo I-Shift AT2612G ASO",
+					"speeds": "12",
+					"retarder": false,
+					"ratio": "14.94 - 1.0",
+					"code": "/def/vehicle/truck/volvo.vnl2025/transmission/ishift_at2612g_aso.sii"
+				},
+				{
+					"name": "Volvo I-Shift ATO2612G ASO",
+					"speeds": "12",
+					"retarder": false,
+					"ratio": "11.73 - 0.78",
+					"code": "/def/vehicle/truck/volvo.vnl2025/transmission/ishift_ato2612g_aso.sii"
+				}
+			]
+		},
+		{
+			"brand": "volvo",
+			"model": "vnr_e",
+			"engines": [
+				{
+					"name": "Volvo VNR Electric 340kW",
+					"cv": "455",
+					"nm": "3400",
+					"code": "/def/vehicle/truck/volvo.vnr_e/engine/e340.sii"
+				}
+			],
+			"transmissions": [
+				{
+					"name": "Volvo VNR Electric 2-Speed",
+					"speeds": "2",
+					"retarder": false,
+					"ratio": "2.0 - 1.0",
+					"code": "/def/vehicle/truck/volvo.vnr_e/transmission/electric.sii"
+				}
+			]
 		}
 	],
 	"westernstar": [

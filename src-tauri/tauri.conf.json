@@ -24,7 +24,7 @@
   },
   "productName": "Titanes Tools",
   "mainBinaryName": "Titanes Tools",
-  "version": "1.0.7",
+  "version": "1.10.0",
   "identifier": "com.titanestools.dev",
   "plugins": {
     "updater": {

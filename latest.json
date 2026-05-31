@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "Actualización de logo",
+  "version": "1.10.0",
+  "notes": "Agg Camiones Nuevos Volvo ATS",
   "pub_date": "2026-05-05T18:45:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW91dkhObkdMVms3Vk9HWGZ0VFN1M1pweWFJVDJFLzl3bG5pYUVITEhBTGNkUmVaTURTbE1sZ2hVZTlFTGF6N3IvZzFRZTF1bDRNZndGbjFyYjdNSFlsTmh4TE4wb3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTk3MDEzCWZpbGU6VGl0YW5lcyBUb29sc18xLjAuNl94NjRfZW4tVVMubXNpClBmTWUybUp2eGxRTGJ1bkZyKzNBMUtzUWxmbURWelFZeXFjaDlLWUFlRVV1TkJDblJyNTd4V1ZNYUh6OXkvOEtWZ2xLREpoS25qMG5Mek12aFVSRkRnPT0K",
-      "url": "https://github.com/djpeteroficial/Titanes-Tools/releases/download/1.0.6/Truck_Tools_1.0.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW91dkhObkdMVm1vYlJEVCtJSXZsUHl4MlBmTTVRb25Db2sxLzlwUnh1NERsNkR4OVdGeWZYQ2p1QTFaa1JiS1hleFlmR2hnUUJWelRMSm5UOUxXejlLVXRPc2cxZmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDk4NTQ1CWZpbGU6VGl0YW5lcyBUb29sc18xLjEwLjBfeDY0X2VuLVVTLm1zaQpMRlloOTdDQjB0RmgrTGs0YmhUMW9aVjhlV1RKTnV1QVd4RjhYMjlpOXhiQ3Z2SU5TdER4US95dFNKa1dwWTBONzlJUVpncFJMU3hLK0dSdjJ1Z3hEUT09Cg",
+      "url": "https://github.com/djpeteroficial/Titanes-Tools/releases/download/1.10.0/Truck_Tools_1.10.0_x64_en-US.msi"
     }
   }
 }
